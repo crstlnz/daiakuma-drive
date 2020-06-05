@@ -1,0 +1,72 @@
+.background {
+    min-height: 100%;
+    overflow: auto;
+}
+
+.navbar {
+    position: relative;
+}
+
+.content {
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.bg-dark {
+    background: #1565C0 !important;
+}
+
+.userimage {
+    height: 40px;
+    width: 40px;
+}
+
+.detaildiv {
+    height: 40px;
+    overflow: hidden;
+    max-width: 150px;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.detaildiv .username,
+.detaildiv .mail {
+    width: 100%;
+}
+
+.imageDropdown {
+    padding: 0 !important;
+    margin-left: 5px;
+}
+
+.imageDropdown::after {
+    display: none;
+}
+
+.imageDropdownItem {
+    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    display: inline-block;
+    width: calc(100% - 20px);
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.imageDropdownItem:hover {
+    text-decoration: none;
+}
+
+.login-btn {
+    height: 30px !important;
+    line-height: 25px !important;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}

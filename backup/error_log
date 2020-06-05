@@ -1,0 +1,810 @@
+[16-Sep-2019 03:07:48 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:50 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:51 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:52 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:53 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:07:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:08:02 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:08:02 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:08:25 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drivegoogle-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:08:25 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drivegoogle-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:09:56 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drivegoogle-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:09:56 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drivegoogle-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:09:56 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drivegoogle-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:10:22 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:23 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:26 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:28 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:28 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:36 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:37 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 03:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 03:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 03:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 03:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 03:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:11:18 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/wgoogle-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:11:18 Asia/Jakarta] PHP Warning:  require(/home/daiakuma/public_html/drive/wgoogle-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:11:18 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/daiakuma/public_html/drive/wgoogle-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:11:26 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:11:32 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: file "credentials.json" does not exist in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php:904
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(14): Google_Client->setAuthConfig('credentials.jso...')
+#1 /home/daiakuma/public_html/drive/index.php(60): getClient()
+#2 {main}
+  thrown in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php on line 904
+[16-Sep-2019 03:11:33 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: file "credentials.json" does not exist in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php:904
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(14): Google_Client->setAuthConfig('credentials.jso...')
+#1 /home/daiakuma/public_html/drive/index.php(60): getClient()
+#2 {main}
+  thrown in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php on line 904
+[16-Sep-2019 03:12:20 Asia/Jakarta] PHP Warning:  require_once(/google-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:12:20 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/google-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:13:00 Asia/Jakarta] PHP Warning:  require_once(/google-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:13:00 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/google-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:13:01 Asia/Jakarta] PHP Warning:  require_once(/google-api-php-client-2.4.0/vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:13:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/google-api-php-client-2.4.0/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 2
+[16-Sep-2019 03:13:11 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:13:12 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:22:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:22:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: This application must be run on the command line. in /home/daiakuma/public_html/drive/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 5
+[16-Sep-2019 03:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "keyInvalid",
+    "message": "Bad Request"
+   }
+  ],
+  "code": 400,
+  "message": "Bad Request"
+ }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Task/Runner.php(176): Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#2 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(58): Google_Task_Runner->run()
+#3 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php(842): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleH in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "keyInvalid",
+    "message": "Bad Request"
+   }
+  ],
+  "code": 400,
+  "message": "Bad Request"
+ }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Task/Runner.php(176): Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#2 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(58): Google_Task_Runner->run()
+#3 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php(842): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleH in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:28:54 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "keyInvalid",
+    "message": "Bad Request"
+   }
+  ],
+  "code": 400,
+  "message": "Bad Request"
+ }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Task/Runner.php(176): Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#2 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(58): Google_Task_Runner->run()
+#3 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php(842): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleH in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:28:55 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "keyInvalid",
+    "message": "Bad Request"
+   }
+  ],
+  "code": 400,
+  "message": "Bad Request"
+ }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Task/Runner.php(176): Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#2 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(58): Google_Task_Runner->run()
+#3 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Client.php(842): Google_Http_REST::execute(Object(GuzzleHttp\Client), Object(GuzzleH in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:31:45 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Books API has not been used in project 367988192153 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "extendedHelp": "https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153"
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Books API has not been used in project 367988192153 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+ }
+}
+ in /home/daiakuma/public_h in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:31:45 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Books API has not been used in project 367988192153 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "extendedHelp": "https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153"
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Books API has not been used in project 367988192153 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/books.googleapis.com/overview?project=367988192153 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+ }
+}
+ in /home/daiakuma/public_h in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 03:32:46 Asia/Jakarta] PHP Warning:  include_once(/home/daiakuma/public_html/drive/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 18
+[16-Sep-2019 03:32:46 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '/home/daiakuma/public_html/drive/../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 18
+[16-Sep-2019 03:32:46 Asia/Jakarta] PHP Warning:  include_once(templates/base.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 19
+[16-Sep-2019 03:32:46 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'templates/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 19
+[16-Sep-2019 03:32:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pageHeader() in /home/daiakuma/public_html/drive/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 20
+[16-Sep-2019 03:32:47 Asia/Jakarta] PHP Warning:  include_once(/home/daiakuma/public_html/drive/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 18
+[16-Sep-2019 03:32:47 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '/home/daiakuma/public_html/drive/../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 18
+[16-Sep-2019 03:32:47 Asia/Jakarta] PHP Warning:  include_once(templates/base.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 19
+[16-Sep-2019 03:32:47 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'templates/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 19
+[16-Sep-2019 03:32:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pageHeader() in /home/daiakuma/public_html/drive/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 20
+[16-Sep-2019 18:33:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 18:33:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/daiakuma/public_html/drive/index.php on line 3
+[16-Sep-2019 20:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/index.php on line 117
+[16-Sep-2019 20:36:52 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/index.php on line 121
+[16-Sep-2019 20:36:54 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/index.php on line 121
+[16-Sep-2019 20:37:01 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/index.php on line 121
+[16-Sep-2019 20:37:29 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/index.php on line 120
+[16-Sep-2019 20:38:33 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:39:27 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:39:29 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:42:09 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:43:27 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:43:27 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:43:57 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:43:59 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:44:20 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:44:27 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 20:52:31 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 21:33:11 Asia/Jakarta] PHP Recoverable fatal error:  Object of class Google_Service_Oauth2_Userinfoplus could not be converted to string in /home/daiakuma/public_html/drive/index.php on line 127
+[16-Sep-2019 21:33:11 Asia/Jakarta] PHP Recoverable fatal error:  Object of class Google_Service_Oauth2_Userinfoplus could not be converted to string in /home/daiakuma/public_html/drive/index.php on line 127
+[16-Sep-2019 21:36:11 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/index.php on line 125
+[16-Sep-2019 21:36:11 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/index.php on line 125
+[16-Sep-2019 21:37:10 Asia/Jakarta] PHP Notice:  Undefined property: Google_Service_Oauth2::$profile in /home/daiakuma/public_html/drive/index.php on line 43
+[16-Sep-2019 21:37:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/daiakuma/public_html/drive/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 43
+[16-Sep-2019 21:37:28 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 21:39:07 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/index.php on line 127
+[16-Sep-2019 21:39:07 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/index.php on line 127
+[16-Sep-2019 21:39:14 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 22:44:52 Asia/Jakarta] PHP Notice:  Undefined variable: userProfile in /home/daiakuma/public_html/drive/template/user_page.php on line 3
+[16-Sep-2019 22:44:52 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/user_page.php on line 3
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 22:57:21 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 23:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 23:01:26 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 8
+[16-Sep-2019 23:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 23:01:26 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 9
+[16-Sep-2019 23:04:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 15
+[16-Sep-2019 23:04:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:10 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:10 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 15
+[16-Sep-2019 23:04:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:19 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:19 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 15
+[16-Sep-2019 23:04:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:46 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:46 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:58 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 15
+[16-Sep-2019 23:04:58 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:58 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/header.php on line 16
+[16-Sep-2019 23:04:58 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:04:58 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/header.php on line 17
+[16-Sep-2019 23:06:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:06:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:06:10 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:06:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:06:10 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:06:22 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:06:22 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:06:22 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:06:22 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:06:22 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:13 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:13 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:13 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:13 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:14 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:14 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:14 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:14 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:19 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:19 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:19 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:42 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:42 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:42 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:42 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:42 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:43 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:43 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:43 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:43 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:43 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:44 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:47 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:07:47 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:08:09 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:08:25 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 22
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 22
+[16-Sep-2019 23:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 21
+[16-Sep-2019 23:09:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 21
+[16-Sep-2019 23:09:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 21
+[16-Sep-2019 23:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 21
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getOAuthCredentialsFile() in /home/daiakuma/public_html/drive/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 22
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Undefined variable: authUrl in /home/daiakuma/public_html/drive/header.php on line 7
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:46 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:54 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:09:54 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:54 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:09:54 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:09:54 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:10:07 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:10:07 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:10:07 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:10:07 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:10:07 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:10:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 31
+[16-Sep-2019 23:10:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:10:51 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 32
+[16-Sep-2019 23:10:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:10:51 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_in.php on line 33
+[16-Sep-2019 23:12:24 Asia/Jakarta] PHP Warning:  include_once(/template/nav_logged_in.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/template/user_page.php on line 10
+[16-Sep-2019 23:12:24 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '/template/nav_logged_in.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/template/user_page.php on line 10
+[16-Sep-2019 23:13:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/daiakuma/public_html/drive/template/user_page.php on line 8
+[16-Sep-2019 23:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 23:36:44 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 23:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 23:43:26 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[16-Sep-2019 23:43:45 Asia/Jakarta] PHP Fatal error:  Uncaught Google_Service_Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google_Service_...')
+#1 /home/daiakuma/pu in /home/daiakuma/public_html/drive/google-api-php-client-2.4.0/src/Google/Http/REST.php on line 118
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 20
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 20
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 21
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Trying to get property 'email' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 21
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Undefined variable: userInfo in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 25
+[17-Sep-2019 00:39:51 Asia/Jakarta] PHP Notice:  Trying to get property 'picture' of non-object in /home/daiakuma/public_html/drive/template/nav_logged_out.php on line 25
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: result in /home/daiakuma/public_html/drive/index.php on line 141
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Trying to get property 'id' of non-object in /home/daiakuma/public_html/drive/index.php on line 141
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: result in /home/daiakuma/public_html/drive/index.php on line 141
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/index.php on line 141
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: result2 in /home/daiakuma/public_html/drive/index.php on line 142
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Trying to get property 'id' of non-object in /home/daiakuma/public_html/drive/index.php on line 142
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: result2 in /home/daiakuma/public_html/drive/index.php on line 142
+[17-Sep-2019 01:37:45 Asia/Jakarta] PHP Notice:  Trying to get property 'name' of non-object in /home/daiakuma/public_html/drive/index.php on line 142
+[17-Sep-2019 01:42:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Google_Service_Drive_DriveFile::setTitle() in /home/daiakuma/public_html/drive/index.php:7
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(63): copyFile(Object(Google_Client), 'wew', 'wew')
+#1 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 7
+[17-Sep-2019 01:44:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Google_Service_Drive_DriveFile::setTitle() in /home/daiakuma/public_html/drive/index.php:7
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(63): copyFile(Object(Google_Client), 'wew', 'wew')
+#1 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 7
+[17-Sep-2019 01:44:48 Asia/Jakarta] PHP Notice:  Undefined property: Google_Client::$files in /home/daiakuma/public_html/drive/index.php on line 8
+[17-Sep-2019 01:44:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function copy() on null in /home/daiakuma/public_html/drive/index.php:8
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(62): copyFile(Object(Google_Client), 'wew', 'wew')
+#1 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 8
+[17-Sep-2019 01:46:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Google_Service_Drive_DriveFile::setTitle() in /home/daiakuma/public_html/drive/index.php:7
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(63): copyFile(Object(Google_Service_Drive), 'wew', 'wew')
+#1 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 7
+[17-Sep-2019 01:47:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Google_Service_Drive_DriveFile::setTitle() in /home/daiakuma/public_html/drive/index.php:7
+Stack trace:
+#0 /home/daiakuma/public_html/drive/index.php(63): copyFile(Object(Google_Service_Drive), 'wew', 'wew')
+#1 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 7

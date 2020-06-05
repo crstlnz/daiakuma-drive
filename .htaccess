@@ -1,0 +1,16 @@
+Options -Indexes
+
+
+<Files ".gitignore">  
+  Require all denied
+</Files>
+
+<Files ".editorconfig">  
+  Require all denied
+</Files>
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/.gitignore -f
+RewriteRule ^(.*)$ index.php/$1 [L]

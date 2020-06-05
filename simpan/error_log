@@ -1,0 +1,20 @@
+[17-Sep-2019 21:32:03 Asia/Jakarta] PHP Warning:  require_once(/home/daiakuma/public_html/drive/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/daiakuma/public_html/drive/index.php on line 315
+[17-Sep-2019 21:32:03 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/daiakuma/public_html/drive/system/core/CodeIgniter.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/index.php on line 315
+[17-Sep-2019 21:32:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/daiakuma/public_html/drive/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/system/core/CodeIgniter.php on line 287
+[17-Sep-2019 21:32:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/daiakuma/public_html/drive/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/daiakuma/public_html/drive/system/core/CodeIgniter.php on line 287
+[20-Sep-2019 23:03:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare round_up() (previously declared in /home/daiakuma/public_html/drive/application/controllers/Filemanager.php:112) in /home/daiakuma/public_html/drive/application/controllers/Filemanager.php on line 112
+[20-Sep-2019 23:03:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare round_ups() (previously declared in /home/daiakuma/public_html/drive/application/controllers/Filemanager.php:112) in /home/daiakuma/public_html/drive/application/controllers/Filemanager.php on line 112
+[01-Oct-2019 01:07:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/daiakuma/public_html/drive/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 72
+[01-Oct-2019 01:07:53 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/daiakuma/public_html/drive/index.php on line 72
+[01-Oct-2019 01:07:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function set_item() on null in /home/daiakuma/public_html/drive/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 72
+[01-Oct-2019 01:07:54 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/daiakuma/public_html/drive/index.php on line 72
+[01-Oct-2019 01:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function set_item() on null in /home/daiakuma/public_html/drive/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/daiakuma/public_html/drive/index.php on line 72
